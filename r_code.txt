@@ -95,9 +95,9 @@ ggsave('~/heatmap_7ps_g_bw.png', width = 6, height = 4, dpi = 300)
 
 
 
-###########
-### glm ###
-###########
+#############
+### glmer ###
+#############
 
 library(Matrix)
 library(lme4)
